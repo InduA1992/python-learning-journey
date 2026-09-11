@@ -1,7 +1,7 @@
 Python Fundamentals – Data Structures
 Strings & Tuples
 
-This project is part of my Python Fundamentals learning journey.
+This Assignment is part of my Python Fundamentals learning journey.
 It covers basic operations and concepts related to Strings and Tuples in Python.
 
 Topics Covered
