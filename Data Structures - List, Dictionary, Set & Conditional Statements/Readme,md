@@ -1,1 +1,45 @@
+# Python Data Structures & Conditional Statements
 
+This assignment covering basic data structures and conditional statements.
+
+## Topics Covered
+
+- Lists
+  - List creation
+  - Append, insert, remove and pop
+  - Extend and sorting
+  - Maximum, minimum and sum
+  - List indexing and slicing
+  - Reverse order
+
+- Dictionaries
+  - Dictionary creation
+  - Accessing values
+  - Adding and updating elements
+  - keys(), values() and items()
+
+- Sets
+  - Set creation
+  - Removing duplicate values
+  - Set indexing and assignment
+  - Union and intersection
+
+- Conditional Statements
+  - if
+  - elif
+  - else
+  - Performance category based on score
+
+## Key Concepts Practiced
+
+- Python List Operations
+- Dictionary Operations
+- Set Operations
+- Indexing and Slicing
+- Built-in Functions
+- Conditional Logic
+
+## Tools Used
+
+- Python
+- Jupyter Notebook
