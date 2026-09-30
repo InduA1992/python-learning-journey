@@ -1,11 +1,9 @@
 # Survey Feedback Analyzer
 
-## 📌 Overview
-
+## 📌 Project Overview
 Survey Feedback Analyzer is a Python project that analyzes customer survey feedback.
 
-The Assignment uses basic Python concepts such as:
-
+The project uses basic Python concepts such as:
 - Lists
 - Dictionaries
 - Loops
@@ -16,7 +14,7 @@ The Assignment uses basic Python concepts such as:
 
 ## 🎯 Objectives
 
-The assignment performs the following tasks:
+The project performs the following tasks:
 
 1. Stores preloaded survey feedback.
 2. Allows users to add new feedback.
