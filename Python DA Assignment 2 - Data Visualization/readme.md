@@ -128,22 +128,6 @@ Understanding correlations and data distributions.
 
 Presenting data insights through visualizations.
 
-🚀 How to Run This Project
-
-1. Clone the repository
-
-git clone <your-repository-url>
-
-2. Install the required libraries
-
-pip install pandas numpy matplotlib seaborn jupyter
-
-3. Launch Jupyter Notebook
-
-jupyter notebook
-
-4. Open the assignment notebook and run the cells in sequence.
-
 📂 Dataset
 
 Dataset: Taxis
