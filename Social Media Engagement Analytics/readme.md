@@ -75,10 +75,8 @@ These findings are specific to the dataset and should not be generalized to all 
 Social-Media-Engagement-Analytics/
 │
 ├── social_media_engagement_5000.csv
-├── Social_Media_Engagement_Analysis.ipynb
-└── README.md
-
-Update the notebook filename if your uploaded file has a different name.
+├── SocialMediaEngagementAnalysis.ipynb
+└── readme.md
 
 🚀 How to Run the Project
 
